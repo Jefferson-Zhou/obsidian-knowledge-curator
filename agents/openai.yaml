@@ -1,0 +1,6 @@
+interface:
+  display_name: "Obsidian Knowledge Curator"
+  short_description: "Classify, link, and safely maintain Obsidian vaults"
+  default_prompt: "Use $obsidian-knowledge-curator on the exact root I provide. Follow its single fixed layout and topic protocol, and show exact operations before editing."
+policy:
+  allow_implicit_invocation: true
